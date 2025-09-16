@@ -1,4 +1,4 @@
-# school-timetable– 2024/2025 Academic Year
+
 This project is a simple, responsive web-based timetable for the 2024/2025 academic year. It is designed for schools to display class schedules for different year groups and days of the week.
 
 Features
